@@ -1,0 +1,2 @@
+C:\Users\HPPC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\cmd
+

@@ -1,0 +1,5 @@
+C:\Users\HPPC\AppData\Local\Programs\Python\Python310;C:\Program Files\Git\cmd
+
+
+
+cmd erorr us-& C:/Users/HPPC/AppData/Local/Programs/Python/Python310/python.exe "e:/harshit sir/h1exercise.py/a.py"
